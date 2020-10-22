@@ -3,7 +3,7 @@ I'm Ridwan, a self-taught creative Full-Stack Software Developer currently based
 
 
 ### Wana learn more about me? Check out my website 🌎
-https://ridkadri-portfolio.netlify.app
+https://ridkadri.com
 
 ### 💻 Technologies
 Javascript, ReactJS, NodeJS, HTML5, CSS3, TypeScript, Git, MongoDB, Firebase, ExpressJS
