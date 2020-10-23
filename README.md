@@ -7,4 +7,4 @@ I am an entertainment promoter when i am not writing code and also an avid <a hr
 https://ridkadri.com
 
 ### 💻 Technologies
-Javascript, ReactJS, NodeJS, HTML5, CSS3, TypeScript, Git, MongoDB, Firebase, ExpressJS
+Javascript, ReactJS, NodeJS, HTML5, CSS3, TypeScript, Git, PostreSQL, MongoDB, Firebase, ExpressJS
