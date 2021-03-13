@@ -1,6 +1,6 @@
 ### Hey there 😎👋 
 I'm Ridwan, a self-taught creative Full-Stack Web Developer currently based in Ghana 🇬🇭 .I have a passion for building beautiful web interfaces with modern web frameworks. I design with Wordpress whilst i go deeper into code with React JS my favourite library 😊.
-I am an entertainment promoter when i am not writing code and also an avid <a href="https://music.apple.com/gh/playlist/2012-2013-hiphop/pl.u-Ymb00vgTPoPWMp">HipHop/Rap</a> music listener at my leisure.	
+When i am not writing code you will find me curating great playlists since i am a heavy consumer of <a href="https://open.spotify.com/playlist/0005DlyitOTtLJx7ksXO4o?si=lK7fV7OZQ0-HmO9wPsDPPg">RnB & Rap Music</a>.	
 
 
 ### Wana learn more about me? Check out my website 🌎
