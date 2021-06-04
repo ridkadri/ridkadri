@@ -1,5 +1,5 @@
 ### Hey there 😎👋 
-I'm Ridwan, a self-taught creative Full-Stack Web Developer with the MERN stack currently based in Ghana 🇬🇭 willing to relocate and work remote. I have a passion for building beautiful web interfaces with modern web frameworks.<br> 
+Hi, Im Ridwan. I have a passion for building beautiful web and mobile applications with an eye for design with scalable frameworks.<br> 
 
 I focus mainly in Front-End with React JS/ React Native 📱 and aspire to be one of the best Front-End developers worldwide buiding both on web and mobile platforms 😊.<br>
 
@@ -10,4 +10,4 @@ When i am not writing code you will find me curating great playlists since i am 
 https://ridkadri.com
 
 ### 💻 Technologies
-HTML5/CSS3, Javascript, React/ React Native, NodeJS, MongoDB, Firebase, ExpressJS
+HTML5/CSS3, ES6, React/ React Native, Next JS, Firebase, GraphQL. 
